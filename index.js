@@ -1,5 +1,4 @@
-var a= 400;
-var b=75;
-function add(){
+
+function add(a, b){
   return a+b 
 }
