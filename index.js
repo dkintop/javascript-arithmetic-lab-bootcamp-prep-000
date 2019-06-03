@@ -1,5 +1,5 @@
-var a= 1000;
-var b=7;
+var a= 400;
+var b=75;
 function add(){
   return a+b 
 }
