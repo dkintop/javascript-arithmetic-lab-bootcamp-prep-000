@@ -1,5 +1,5 @@
-var a= 1;
-var b=2;
+var a= 1000;
+var b=7;
 function add(){
   return a+b 
 }
